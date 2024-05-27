@@ -1,0 +1,61 @@
+//INSTALAR NAVEGACION
+npm install @react-navigation/native
+
+npx expo install react-native-screens react-native-safe-area-context
+
+npm add @react-navigation/bottom-tabs
+
+npm add @react-navigation/drawer
+
+npm add @react-navigation/stack
+
+
+//ICONOS
+ npm install react-native-elements
+
+
+//SCROLL
+npm install react-native-keyboard-aware-scroll-view
+
+
+//LODASH
+npm i -g npm
+npm i --save lodash
+
+npm i react-native-easy-toast --save
+
+
+//PERMISOS
+npm expo install expo-permissions
+npm expo install expo-media-library
+npm expo install expo-location
+npm expo install expo-camera
+npm expo install expo-image-picker
+
+
+//ESCRIBIR EN APP.JSON
+"permissions":[
+        "CAMERA_ROLL",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+
+
+
+//STORAGE
+npm install @react-native-firebase/app @react-native-firebase/storage
+
+npm install @react-native-async-storage/async-storage
+
+
+//ID RANDOM
+npm install shortid
+
+//Carrousel de imagenes
+npm install --save react-native-snap-carousel
+
+
+//Moment
+npm i moment
+
+
